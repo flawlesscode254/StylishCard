@@ -1,0 +1,14 @@
+.card{
+    position: relative;
+    width: 50%;
+    margin: 0 auto;
+    border: 2px solid blue;
+    margin-top: 200px;
+    height: 200px;
+    border-radius: 25px;
+    border-left-width: 10px;
+    background-color: #bcbcb6;
+}
+html{
+    background-color: #dd3d5c;
+}
